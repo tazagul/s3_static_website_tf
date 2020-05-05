@@ -1,7 +1,3 @@
-variable "region" {
-    default = "us-east-1"
-}
+variable "region" {}
 
-variable "domain-name" {
-    default = "tazagul.net"
-}
+variable "domain-name" {}
