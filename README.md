@@ -8,7 +8,7 @@
 ```
 aws configure
 ```
-1. Download and extract the  latest release of the Terraform. 
+2. Download and extract the  latest release of the Terraform. 
 
 * [Download Terraform - Terraform by HashiCorp](https://www.terraform.io/downloads.html)
 
