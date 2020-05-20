@@ -1,4 +1,5 @@
 # Terraform provisioned static site hosting on AWS S3.
+![aws](s3.png)
 ---
 ### ACCEPTANCE CTITERIA:
 1. You should have an AWS account credentials. 
@@ -34,7 +35,9 @@ mv terraform /bin
 
 1. Clone this repo
 2. add .tvars file
-3. Run terraform init
-4. Run terraform plan
-5. Run terraform apply
-
+3. Run 
+```
+terraform init
+terraform plan
+terraform apply
+```
